@@ -1,5 +1,5 @@
 
-# a simple html Three.js Cube
+# A simple html Three.js Cube
 
 This is a simple example of a 3D cube rotating using [Three.js](https://threejs.org/), a popular 3D graphics library for the web.
 
